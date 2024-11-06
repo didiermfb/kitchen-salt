@@ -5,7 +5,7 @@ Gem::Specification.new do |spec|
   spec.version       = Kitchen::Salt::VERSION
   spec.authors       = ['SaltStack Inc']
   spec.email         = ['daniel@gtmanfred.com']
-  spec.homepage      = 'https://github.com/saltstack/kitchen-salt'
+  spec.homepage      = 'https://github.com/didiermfb/kitchen-salt.git'
   spec.summary       = 'salt provisioner for test-kitchen'
   spec.licenses      = 'Apache-2.0'
   spec.description   = 'salt provisioner for test-kitchen so that you can test all the things'
